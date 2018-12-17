@@ -26,5 +26,9 @@
      Recomendamos el uso de cualquier función SHA por encima de MD5.
      
    * st_response: URL de respuesta por donde se enviara el estado de la transacción por medio del método GET.
+   
+  ### Campos opcionales
+  
+  * tx_extra_1, tx_extra_2, tx_extra_3: Son campos que pueden usarse para identificar o trazar un transacción.
         
 Con estos datos se puede dar inicio a recibir pagos en línea con UrPay! Cualquier duda o bug escribirnos a dev-issues@urpay.co
